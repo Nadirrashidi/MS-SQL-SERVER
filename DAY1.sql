@@ -1,9 +1,12 @@
+
+# creating table
 create table test(
 id int ,
 name varchar(255),
 address varchar(255)
 );
 
+# insert value in table
 insert into test (id,name ,address) values (1,'nadir','gujrat');
 insert into test (id,name ,address) values (2,'rashidi','new delhi');
 insert into test (id,name ,address) values (3,'jilani','surat');
